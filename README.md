@@ -1,2 +1,2 @@
-# Zidio_intern
+# Internship
 Projects
